@@ -4,7 +4,7 @@ Note- This was made to work with y computer.
 
 
 
-
+![Logo](https://github.com/lxsh-S/Custom_Omarchy_dotfiles/blob/main/image.png)
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Omarchy_logo.png)
 
