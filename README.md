@@ -19,6 +19,8 @@ Note- This was made to work with y computer.
 
 - **.config(user)**
 
+- **waybar**
+
 
 ## LOCATION
 
