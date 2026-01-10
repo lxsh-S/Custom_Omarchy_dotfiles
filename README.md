@@ -1,6 +1,6 @@
 # Custom_Omarchy_Dotfiles
 
-Note- This was made to work with y computer.
+Note- This was made to work with my computer.
 
 
 
