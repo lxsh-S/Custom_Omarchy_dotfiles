@@ -13,7 +13,7 @@ Note- This was made to work with my computer.
 
 ## FILES
 
-**I am currenty providing two files:**
+**I am currenty providing three files:**
 
 - **.config(default omarchy)**
 
