@@ -1,6 +1,8 @@
 # Custom_Omarchy_Dotfiles
+**THE CODE IS AS CUSTOMIZABLE AS YOU WANT**
 
 Note- This was made to work with my computer.
+    - The **waybar is not currently working**.
 
 
 
@@ -13,13 +15,15 @@ Note- This was made to work with my computer.
 
 ## FILES
 
-**I am currenty providing three files:**
+**I am currenty providing four files:**
 
 - **.config(default omarchy)**
 
 - **.config(user)**
 
 - **waybar**
+
+- **Kitty** 
 
 
 ## LOCATION
