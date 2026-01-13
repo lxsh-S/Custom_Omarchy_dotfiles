@@ -4,13 +4,12 @@
 Note- This was made to work with my computer.
     - The **waybar is not currently working**.
 
-
-
 ![Logo](https://github.com/lxsh-S/Custom_Omarchy_dotfiles/blob/main/image.png)
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Omarchy_logo.png)
 
-
+## Waybar
+- This wayabr is not made ny me although I have provided you with the code for the waybar it dosent properly work. So I recommend you to go to this link -> https://github.com/HANCORE-linux/waybar-themes and download any waybar of your liking. :)
 
 
 ## FILES
