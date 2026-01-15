@@ -3,6 +3,7 @@
 
 Note- This was made to work with my computer.
     - The **waybar is not currently working**.
+    - *I have an assistant for systems "Leo_Assistant" drop suggestions there if intested . Thanks! :)*
 
 ![Logo](https://github.com/lxsh-S/Custom_Omarchy_dotfiles/blob/main/image.png)
 
