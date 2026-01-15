@@ -2,7 +2,9 @@
 **THE CODE IS AS CUSTOMIZABLE AS YOU WANT**
 
 Note- This was made to work with my computer.
+<br>
     - The **waybar is not currently working**.
+<br>
     - *I have an assistant for systems "Leo_Assistant" drop suggestions there if intested . Thanks! :)*
 
 ![Logo](https://github.com/lxsh-S/Custom_Omarchy_dotfiles/blob/main/image.png)
